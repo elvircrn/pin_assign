@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/elvircrn/Documents/codes/pin_assign/main.cpp
+filesystem
+-
+iostream
+-
+vector
+-
+string
+-
+cstring
+-
+fstream
+-
+sstream
+-
+cctype
+-
+
